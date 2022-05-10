@@ -1,4 +1,5 @@
-## 西电睿思手机客户端
+项目 fork自西电论坛
+<!-- ## 西电睿思手机客户端
 
 [![Build Status](https://travis-ci.org/freedom10086/Ruisi.svg?branch=master)](https://travis-ci.org/freedom10086/Ruisi)
 
@@ -61,3 +62,4 @@ iOS版见[Ruisi_iOS](https://github.com/xidian-rs/Ruisi_iOS)
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+ -->
